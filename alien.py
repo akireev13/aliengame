@@ -23,7 +23,7 @@ class Alien:
     def collision_detection(self, other_alien):
         pass
 
-    def total_aliens_created():
+    def total_aliens_created(self):
         return Alien.alien_counter
 
 
